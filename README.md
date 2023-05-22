@@ -1,3 +1,2 @@
 
-This google-meet-clone is	a real-time communication website with features of video calling a small group of people, real time 
-chatting during the video call, screen share, record video as well as screen, mute/unmute, toggle video off/on.
+The Google Meet clone is an interactive website that facilitates seamless real-time communication among a select group of individuals. Packed with essential features, this platform allows users to engage in high-quality video calls, engage in live chat discussions, effortlessly share screens, record videos and screens, and conveniently control audio settings such as muting/unmuting and toggling video on or off.
